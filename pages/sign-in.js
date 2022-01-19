@@ -1,11 +1,11 @@
 import React from 'react'
 import SignInArea from '../components/Elements/Settings/SignInArea'
-import Layout2 from '../components/Layout/Layout2'
+import Layout5 from '../components/Layout/Layout5'
 
 export default function SignIn() {
     return (
-        <Layout2>            
+        <Layout5>            
             <SignInArea/>
-        </Layout2>
+        </Layout5>
     )
 }

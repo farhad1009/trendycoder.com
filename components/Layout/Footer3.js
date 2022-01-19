@@ -23,7 +23,7 @@ export default function Footer3({className}) {
                         </div>
                      </div>
                      <div className="footer__widget-content footer__widget-content-3">
-                        <p>Ever since we started using  we’ve , and more.</p>
+                        <p>We are a developer team. We are also available in Themeforest.</p>
                      </div>
                   </div>
                </div>

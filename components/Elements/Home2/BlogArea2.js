@@ -12,7 +12,7 @@ export default function BlogArea2() {
                <div className="row">
                   <div className="col-xxl-8 offset-xxl-2 col-xl-10 offset-xl-1">
                      <div className="section__title-wrapper section__title-wrapper-2 text-center mb-50 wow fadeInUp section-padding section-padding-2" data-wow-delay=".3s">
-                        <h2 className="section__title section__title-2">Compare our wetLand software to blog news alytics</h2>
+                        <h2 className="section__title section__title-2">Compare our TrendyCoder software to blog news alytics</h2>
                      </div>
                   </div>
                </div>

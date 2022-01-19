@@ -394,16 +394,16 @@
                     content: '\f00c';
                     font-family: $fontawesome;
                     font-size: 15px;
-                    color: $w-blue-7;
+                    color: $w-green-6;
                     left: 0;
                     top: 1px;
                     font-weight: 500;
                 }
                 &:hover{
                     padding-left: 20px;
-                    color: $w-blue-7;
+                    color: $w-green-6;
                     &::after{
-                        color: $w-blue-7;
+                        color: $w-green-6;
                     }
                 }
             }

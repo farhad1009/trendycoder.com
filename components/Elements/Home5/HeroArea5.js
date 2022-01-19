@@ -13,7 +13,8 @@ export default function HeroArea5() {
                <div className="row align-items-center">
                   <div className="col-xxl-6 col-xl-6 col-lg-6">
                      <div className="hero__content-5">
-                        <h3 className="hero__title-5 wow fadeInUp" data-wow-delay=".3s">Creative digital solution agency.</h3>
+                        <h3 className="hero__title-5 wow fadeInUp" data-wow-delay=".3s">Trendy Coder 360° Value
+Reporting Experience.</h3>
                         <p className="wow fadeInUp" data-wow-delay=".5s">Impression is a multi-award winning, strategic-thinking team of digital marketing quis ipsum suspendisse. </p>
 
                         <div className="hero__btn d-sm-flex align-items-center">

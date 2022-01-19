@@ -4,7 +4,7 @@ import AboutServicesArea from "../components/Elements/About/AboutServicesArea";
 import AboutAboutArea from "../components/Elements/About/AboutAboutArea";
 import AboutFAQArea from "../components/Elements/About/AboutFAQArea";
 import AboutPromotionArea from "../components/Elements/About/AboutPromotionArea";
-import Layout2 from "../components/Layout/Layout2";
+import Layout5 from "../components/Layout/Layout5";
 
 
 
@@ -12,7 +12,7 @@ import Layout2 from "../components/Layout/Layout2";
 export default function About() {
     return (
         <>
-            <Layout2>
+            <Layout5>
                 {/* Main-Body Started */}
                 <AboutPageTitle />
                 <AboutServicesArea />
@@ -20,7 +20,7 @@ export default function About() {
                 <AboutFAQArea />
                 <AboutPromotionArea />
                 {/* Main-Body Ended */}
-            </Layout2>
+            </Layout5>
         </>
     )
 }

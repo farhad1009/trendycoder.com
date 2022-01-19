@@ -52,7 +52,7 @@
             margin-bottom: 10px;
             & a{
                 &:hover{
-                    color: $w-blue-7;
+                    color: $w-green-6;
                 }
             }
         }
@@ -71,7 +71,7 @@
                     margin-bottom: 0;
                     & a{
                         &:hover{
-                            color: $w-blue-7;
+                            color: $w-green-6;
                         }
                     }
                 }
@@ -96,7 +96,7 @@
                 font-size: 14px;
             }
             &:focus{
-                border-color: $w-blue-7;
+                border-color: $w-green-6;
             }
         }
         & textarea{
@@ -145,7 +145,7 @@
                 right: 0;
                 top: 10px;
                 border-radius: 20px;
-                background: $w-blue-7;
+                background: $w-green-6;
                 height: 50%;
                 z-index: -1;
             }
@@ -180,7 +180,7 @@
         }
         & .link-btn{
             &:hover{
-                color: $w-blue-7;
+                color: $w-green-6;
             }
         }
     }

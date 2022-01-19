@@ -34,7 +34,7 @@
         margin-bottom: 0;
         & a{
             &:hover{
-                color: $w-blue-7;
+                color: $w-green-6;
             }
         }
     }
@@ -118,12 +118,12 @@
                 right: 0;
                 width: 0%;
                 height: 2px;
-                background: $w-blue-7;
+                background: $w-green-6;
 
             }
             &:hover,
             &.active{
-                color: $w-blue-7;
+                color: $w-green-6;
                 &::after{
                     width: 100%;
                     left: 0;

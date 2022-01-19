@@ -4,7 +4,7 @@ import ServicesTitleArea from "../components/Elements/Services/ServicesTitleArea
 import ServicesServicesArea from "../components/Elements/Services/ServicesServicesArea";
 import ServicesFeaturesArea from "../components/Elements/Services/ServicesFeaturesArea";
 import ServicesCTAArea from "../components/Elements/Services/ServicesCTAArea";
-import Layout2 from "../components/Layout/Layout2";
+import Layout5 from "../components/Layout/Layout5";
 
 
 
@@ -12,14 +12,14 @@ import Layout2 from "../components/Layout/Layout2";
 export default function Services() {
     return (
         <>
-            <Layout2>
+            <Layout5>
                 {/* Main-Body Started */}
                 <ServicesTitleArea />
                 <ServicesServicesArea />
                 <ServicesFeaturesArea />
                 <ServicesCTAArea />
                 {/* Main-Body Ended */}
-            </Layout2>
+            </Layout5>
         </>
     )
 }

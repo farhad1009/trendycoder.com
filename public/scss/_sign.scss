@@ -239,7 +239,7 @@
             }
             & a{
                 &:hover{
-                    color: $w-blue-7;
+                    color: $w-green-6;
                 }
             }
         }
@@ -322,7 +322,7 @@
             &:focus{
                 outline: none;
                 background: $white;
-                border-color: $w-blue-7;
+                border-color: $w-green-6;
                 box-shadow:0px 1px 4px 0px rgba(8, 0, 42, 0.2);
             }
         }
@@ -350,7 +350,7 @@
             @include border-radius(4px);
             &:checked{
                 position: relative;
-                background-color: $w-blue-7;
+                background-color: $w-green-6;
                 border-color: transparent;
                 &::after{
                     box-sizing: border-box;
@@ -378,7 +378,7 @@
                 color: $black-3;
                 font-weight: 500;
                 &:hover{
-                    color: $w-blue-7;
+                    color: $w-green-6;
                 }
             }
         }
@@ -387,7 +387,7 @@
         & a{
             color: $grey-14;
             &:hover{
-                color: $w-blue-7;
+                color: $w-green-6;
             }
         }
     }
@@ -396,7 +396,7 @@
             color: $grey-14;
             margin-bottom: 0;
             & a{
-                color: $w-blue-7;
+                color: $w-green-6;
             }
         }
     }

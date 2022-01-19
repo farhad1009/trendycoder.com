@@ -227,10 +227,13 @@ p {
 	background: $grey-20;
 }
 .dark-blue-bg{
-	background: $w-dark-blue;
+	background: $w-dark-green;
+}
+.dark-green-bg{
+	background: $w-dark-green;
 }
 .footer-bg-3 {
-	background: $black-5;
+	background: $w-dark-green;
 }
 
 .white-bg {
@@ -433,7 +436,7 @@ p {
 			padding: 0;
 			&:hover{
 				box-shadow:none;
-				color: $w-blue-7;
+				color: $w-green-6;
 			}
 		}
 	}
@@ -477,11 +480,11 @@ p {
 		&-4{
 			color: $w-blue-8;
 			&::after{
-				background: $w-blue-7;
+				background: $w-green-6;
 			}
 			&:hover{
-				background: $w-blue-7;
-				border-color: $w-blue-7;
+				background: $w-green-6;
+				border-color: $w-green-6;
 				color: $white;
 			}
 		}
@@ -556,11 +559,11 @@ p {
 		height: 40px;
 		line-height: 36px;
 		padding: 0 17px;
-		background: $w-blue-7;
-		border-color: $w-blue-7;
+		background: $w-green-6;
+		border-color: $w-green-6;
 		&:hover{
-			border-color: $w-blue-7;
-			color: $w-blue-7;
+			border-color: $w-green-6;
+			color: $w-green-6;
 		}
 	}
 	&-12{
@@ -568,11 +571,11 @@ p {
 		padding-right: 14px;
 	}
 	&-13{
-		border-color: $w-blue-7;
-		color: $w-blue-7;
+		border-color: $w-green-6;
+		color: $w-green-6;
 		background: $white;
 		&::after{
-			background: $w-blue-7;
+			background: $w-green-6;
 		}
 		&:hover{
 			color: $white;
@@ -613,11 +616,11 @@ p {
 		}
 	}
 	&-blue-5{
-		background: $w-blue-7;
+		background: $w-green-6;
 		color: $white;
-		border-color: $w-blue-7;
+		border-color: $w-green-6;
 		&:hover{
-			color: $w-blue-7;
+			color: $w-green-6;
 			background: $white;
 		}
 	}
@@ -707,7 +710,7 @@ p {
 				display: none;
 			}
 			&:hover{
-				background: $w-blue-7;
+				background: $w-green-6;
 				
 				color: $white;
 			}
@@ -721,7 +724,7 @@ p {
 	font-size: 14px;
 	font-weight: 600;
 	text-transform: capitalize;
-	color: $black-4;
+	color: $w-green-6;
 	& i{
 		font-size: 18px;
 		position: absolute;
@@ -733,7 +736,7 @@ p {
 		@include transition(.2s);
 	}
 	&:hover{
-		color: $w-purple-4;
+		color: $w-green-7;
 		& > i{
 			right: -14px;
 			opacity: 1;
@@ -750,7 +753,7 @@ p {
 	height: 80px;
 	line-height: 84px;
 	text-align: center;
-	color: $w-blue-7;
+	color: $w-green-6;
 	font-size: 30px;
 	background: $white;
 	@include border-radius(50%);
@@ -1165,13 +1168,13 @@ p {
 				font-size: 15px;
 				@include border-radius(4px);
 				&:hover{
-					background: $w-blue-7;
+					background: $w-green-6;
 					color: $white;
 				}
 			}
 			&.active{
 				& a{
-					background: $w-blue-7;
+					background: $w-green-6;
 					color: $white;
 				}
 			}

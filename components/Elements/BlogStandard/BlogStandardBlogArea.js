@@ -23,7 +23,7 @@ export default function BlogStandardBlogArea() {
                              <div className="postbox__meta mb-20">
                                 <span><Link href="#"><a> <i className="icon_chat_alt"></i> 4 Comments </a></Link></span>
                                 <span><Link href="#"><a> <i className="icon_tag_alt"></i> Saas & App</a></Link></span>
-                                <span><Link href="#"><a> <i className="fal fa-user"></i> wetLand</a></Link></span>
+                                <span><Link href="#"><a> <i className="fal fa-user"></i> TrendyCoder</a></Link></span>
                              </div>
                              <h3 className="postbox__title"><Link href="/blog-details"><a>The Importance of Functional Animation in UX The End  Culture Is Coming to Wall Street</a></Link></h3>
                              <p>Twit pukka blow off nice one cack bubble and squeak that, quaint blimey don&#39;t get shirty with me up the kyver bamboozled bobby spiffing, cuppa chap lavatory hunky-dory only a quid. Cack hanky panky show off show off pick your nose and blow off cracking goal. Why cup of tea chap blatant porkies say gosh sloshed bevvy, a a blinding shot down the pub bamboozled butty barmy blimey bleeding bum bag faff about cor blimey guvnor. Why I say old chap that is spiffing, only a quid Oxford matie boy cras cup of tea golly gosh, down the pub Eaton so I said crikey cor blimey guvnor amongst.</p>
@@ -47,7 +47,7 @@ export default function BlogStandardBlogArea() {
                              <div className="postbox__meta mb-20">
                                 <span><Link href="#"><a> <i className="icon_chat_alt"></i> 4 Comments </a></Link></span>
                                 <span><Link href="#"><a> <i className="icon_tag_alt"></i> Saas & App</a></Link></span>
-                                <span><Link href="#"><a> <i className="fal fa-user"></i> wetLand</a></Link></span>
+                                <span><Link href="#"><a> <i className="fal fa-user"></i> TrendyCoder</a></Link></span>
                              </div>
                              <h3 className="postbox__title"><Link href="/blog-details"><a>Why we decide to build a collaborative UX design tools platform?</a></Link></h3>
                              <p>Twit pukka blow off nice one cack bubble and squeak that, quaint blimey don&#39;t get shirty with me up the kyver bamboozled bobby spiffing, cuppa chap lavatory hunky-dory only a quid. Cack hanky panky show off show off pick your nose and blow off cracking goal. Why cup of tea chap blatant porkies say gosh sloshed bevvy, a a blinding shot down the pub bamboozled butty barmy blimey bleeding bum bag faff about cor blimey guvnor. Why I say old chap that is spiffing, only a quid Oxford matie boy cras cup of tea golly gosh, down the pub Eaton so I said crikey cor blimey guvnor amongst.</p>

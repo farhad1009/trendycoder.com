@@ -17,7 +17,7 @@ export default function ContactSupport() {
                            </div>
                            <div className="contact__content">
                               <h3 className="contact__title-2"><Link href="#"><a>Quick Answers</a></Link></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>We reply as soon as posible within 24 hours. </p>
                               <Link href="#"><a className="link-btn">Read More <i className="arrow_right"></i></a></Link>
                            </div>
                         </div>
@@ -31,7 +31,7 @@ export default function ContactSupport() {
                            </div>
                            <div className="contact__content">
                               <h3 className="contact__title-2"><Link href="#"><a>Customer Support</a></Link></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>We try our best to satisfy our customers. </p>
                               <Link href="#"><a className="link-btn">Help & Support<i className="arrow_right"></i></a></Link>
                            </div>
                         </div>
@@ -45,7 +45,7 @@ export default function ContactSupport() {
                            </div>
                            <div className="contact__content">
                               <h3 className="contact__title-2"><Link href="#"><a>We are Social</a></Link></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>We are also active in social media. </p>
                               <Link href="#"><a className="link-btn">Join our Community<i className="arrow_right"></i></a></Link>
                            </div>
                         </div>

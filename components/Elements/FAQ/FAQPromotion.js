@@ -15,14 +15,14 @@ export default function FAQPromotion() {
                      <div className="promotion__content wow fadeInUp" data-wow-delay=".3s">
                         <h3 className="promotion__title">Product goals? <br/> Let&#39;s make them happen.</h3>
                         <p>They’ve taken on a growing role Over the last few year.</p>
-                        <Link href="/about"><a className="w-btn w-btn-8">read more</a></Link>
+                        <Link href="/about"><a className="w-btn w-btn-11">read more</a></Link>
                      </div>
                   </div>
                   <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                      <div className="promotion__content pl-70 promotion__right wow fadeInUp" data-wow-delay=".5s">
                         <h3 className="promotion__title">Looking for enterprise <br/> solution.</h3>
                         <p>They’ve taken on a growing role Over the last few year.</p>
-                        <Link href="/about"><a className="w-btn w-btn-8">read more</a></Link>
+                        <Link href="/about"><a className="w-btn w-btn-11">read more</a></Link>
                      </div>
                   </div>
                </div>

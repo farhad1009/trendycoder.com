@@ -31,7 +31,7 @@ export default function Header() {
                      <div className="col-xxl-3 col-xl-3 col-lg-2 col-md-6 col-6">
                         <div className="logo">
                            <Link href="/"><a>
-                              <img src='/img/logo/logo.png' alt="logo" />
+                              <img src='/img/logo/logo.png' alt="logo" width="250"/>
                            </a></Link>
                         </div>
                      </div>

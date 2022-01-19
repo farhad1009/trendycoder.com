@@ -18,7 +18,7 @@ return (
               </div>
               <div className="col-xxl-8 col-lg-7 col-md-5">
                  <div className="services__more mb-70 text-sm-end">
-                    <Link href="/services"><a className="w-btn w-btn-blue w-btn-6 w-btn-3">view all features</a></Link>
+                    <Link href="/services"><a className="w-btn w-btn-blue w-btn-6 w-btn-11">view all features</a></Link>
                  </div>
               </div>
            </div>

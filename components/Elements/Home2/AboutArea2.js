@@ -22,7 +22,7 @@ export default function AboutArea2() {
                            <h2 className="section__title section__title-2">Get the perfect solution for your web.</h2>
                            <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
                         </div>
-                        <Link href="/about"><a className="w-btn w-btn-blue w-btn-3 w-btn-1">Get Started</a></Link>
+                        <Link href="/about"><a className="w-btn w-btn-blue w-btn-11 w-btn-1">Get Started</a></Link>
                      </div>
                   </div>
                </div>

@@ -52,7 +52,7 @@ export default function ServicesArea3() {
                <div className="row">
                   <div className="col-xxl-12 wow fadeInUp" data-wow-delay=".9s">
                      <div className="services__more text-center mt-30">
-                        <Link href="/services"><a className="w-btn w-btn-purple w-btn-purple-2 w-btn-3 w-btn-6">View all service</a></Link>
+                        <Link href="/services"><a className="w-btn w-btn-purple w-btn-purple-2 w-btn-11 w-btn-6">View all service</a></Link>
                      </div>
                   </div>
                </div>

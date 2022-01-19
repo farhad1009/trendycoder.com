@@ -14,7 +14,7 @@
             top: 0;
             width: 50%;
             height: 100%;
-            background: $w-blue-5;
+            background: $w-green-2;
             z-index: -1;
             @media #{$sm} {
                 top: 0;
@@ -30,7 +30,7 @@
         &::before {
             right: 0;
             left: auto;
-            background: $w-blue-6;
+            background: $w-green-3;
             @media #{$sm} {
                 top: auto;
                 bottom: 0;

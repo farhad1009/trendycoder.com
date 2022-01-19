@@ -32,8 +32,8 @@ export default function Header5() {
                   <div className="row">
                      <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6">
                         <div className="header__info text-center text-sm-start">
-                           <Link href="/mailto:info@gmail.com"><a> <i className="icon_mail"></i> info@gmail.com</a></Link>
-                           <Link href="/tel:+124-547-689"><a> <i className="icon_phone w-phone"></i> +124 547 689</a></Link>
+                           <Link href="/mailto:trendycoder.com@gmail.com"><a> <i className="icon_mail"></i> trendycoder.com@gmail.com</a></Link>
+                           <Link href="/tel:88 016 74 05 29 25"><a> <i className="icon_phone w-phone"></i> 88 016 74 05 29 25</a></Link>
                         </div>
                      </div>
                      <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6">
@@ -42,8 +42,8 @@ export default function Header5() {
                            <ul>
                               <li><Link href="#"><a><i className="fab fa-pinterest-p"></i></a></Link></li>
                               <li><Link href="#"><a><i className="fab fa-twitter"></i></a></Link></li>
-                              <li><Link href="#"><a><i className="fab fa-facebook-f"></i></a></Link></li>
-                              <li><Link href="#"><a><i className="fab fa-linkedin-in"></i></a></Link></li>
+                              <li><Link href="https://www.facebook.com/farhadchowdhury1009/"><a><i className="fab fa-facebook-f"></i></a></Link></li>
+                              <li><Link href="https://www.linkedin.com/in/trendy-coder-020276218/"><a><i className="fab fa-linkedin-in"></i></a></Link></li>
                            </ul>
                         </div>
                      </div>

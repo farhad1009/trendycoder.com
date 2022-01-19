@@ -1,11 +1,11 @@
 import React from 'react'
 import SignUpArea from '../components/Elements/Settings/SignUpArea'
-import Layout2 from '../components/Layout/Layout2'
+import Layout5 from '../components/Layout/Layout5'
 
 export default function SignUp() {
     return (
-        <Layout2>            
+        <Layout5>            
             <SignUpArea/>
-        </Layout2>
+        </Layout5>
     )
 }

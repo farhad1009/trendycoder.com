@@ -25,7 +25,7 @@ export default function MyApp({ Component, pageProps }) {
   return(
   <>
     <Head>
-      <title>Wetland - Multi-Purpose React Next JS Template for Startup</title>
+      <title>TrendyCoder - Trusted theme partner</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png"/>
     </Head>

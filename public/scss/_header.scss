@@ -70,10 +70,10 @@
                 margin-right: 20px;
             }
             &:hover {
-                color: $w-blue-7;
+                color: $w-green-6;
             }
             & i {
-                color: $w-blue-7;
+                color: $w-green-6;
                 padding-right: 3px;
                 display: inline-block;
                 &.w-phone {
@@ -105,7 +105,7 @@
                     font-size: 13px;
                     color: $w-text-11;
                     &:hover {
-                        color: $w-blue-7;
+                        color: $w-green-6;
                     }
                 }
             }
@@ -385,9 +385,9 @@
                 }
                 &:hover {
                     & > a {
-                        color: $w-blue-7;
+                        color: $w-green-6;
                         &::after {
-                            color: $w-blue-7;
+                            color: $w-green-6;
                         }
                     }
                 }
@@ -395,7 +395,7 @@
                     & li {
                         & a {
                             &::before {
-                                background: $w-blue-7;
+                                background: $w-green-6;
                             }
                         }
                     }
@@ -551,7 +551,7 @@
     }
     &-5 {
         & .line {
-            background-color: $w-blue-7;
+            background-color: $w-green-6;
         }
     }
 }
@@ -612,7 +612,7 @@
     font-weight: 600;
 }
 .search-form input:focus {
-    border-color: $w-blue-7;
+    border-color: $w-green-6;
     outline: none;
 }
 .search-form .search-btn {
@@ -628,7 +628,7 @@
     font-size: 18px;
     &:hover {
         cursor: pointer;
-        color: $w-blue-7;
+        color: $w-green-6;
     }
 }
 
@@ -640,7 +640,7 @@
     font-size: 25px;
     z-index: 9999;
     &:hover {
-        color: $w-blue-7;
+        color: $w-green-6;
     }
     @media #{$md} {
         right: 0;
@@ -705,7 +705,7 @@
 }
 
 .mobile-menu-5.mean-container .mean-nav ul li a:hover {
-    color: $w-blue-7;
+    color: $w-green-6;
 }
 
 .mean-container .mean-nav ul li a.mean-expand {

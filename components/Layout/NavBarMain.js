@@ -5,18 +5,11 @@ export default function NavBarMain() {
     return (
         <nav>
             <ul>
-                <li className="has-dropdown">
+                <li>
                     <Link href="/"><a>Home</a></Link>
-                    <ul className="submenu">
-                        <li><Link href="/"><a>Home 1</a></Link></li>
-                        <li><Link href="/index-2"><a>Home 2</a></Link></li>
-                        <li><Link href="/index-3"><a>Home 3</a></Link></li>
-                        <li><Link href="/index-4"><a>Home 4</a></Link></li>
-                        <li><Link href="/index-5"><a>Home 5</a></Link></li>
-                    </ul>
                 </li>
                 <li><Link href="/about"><a>About</a></Link></li>
-                <li className="has-dropdown">
+                {/* <li className="has-dropdown">
                     <Link href="#"><a>Services</a></Link>
                     <ul className="submenu">
                         <li><Link href="/services"><a>Services</a></Link></li>
@@ -44,7 +37,7 @@ export default function NavBarMain() {
                         <li><Link href="/sign-up"><a>Sign Up</a></Link></li>
                         <li><Link href="/sign-in"><a>Sign In</a></Link></li>
                     </ul>
-                </li>
+                </li> */}
                 <li><Link href="/contact"><a>Contact</a></Link></li>
             </ul>
         </nav>

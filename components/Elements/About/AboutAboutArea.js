@@ -16,7 +16,7 @@ export default function AboutAboutArea() {
                            <li>Intergate With Popular Softwares item</li>
                            <li>Instantly Create Your Crowdfunding Platform</li>
                         </ul>
-                        <Link href="/contact"><a className="w-btn w-btn-3 w-btn-1">Get Started</a></Link>
+                        <Link href="/contact"><a className="w-btn w-btn-11 w-btn-1">Get Started</a></Link>
                      </div>
                   </div>
                   <div className="col-xxl-6 offset-xxl-1 col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay=".7s">

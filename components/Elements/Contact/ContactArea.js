@@ -16,18 +16,13 @@ export default function ContactArea() {
                                   <div className="contact__details">
                                      <ul>
                                         <li>
-                                           <h4>Our Location</h4>
-                                           <p>12 Mirpur DOHS, Cantonment, avenue6, road 6, Area 6300, Bedevs </p>
-                                        </li>
-                                        <li>
                                            <h4>Email Adress</h4>
-                                           <p><Link href="/mailto:supportdesk@gmail.com"><a>supportdesk@gmail.com</a></Link></p>
-                                           <p><Link href="/mailto:informaion@gmail.com"><a>informaion@gmail.com</a></Link></p>
+                                           <p><Link href="/mailto:trendycoder.com@gmail.com"><a>trendycoder.com@gmail.com</a></Link></p>
+                                           <p><Link href="/mailto:monsur1009@gmail.com"><a>monsur1009@gmail.com</a></Link></p>
                                         </li>
                                         <li>
                                            <h4>Hotline Number</h4>
-                                           <p><Link href="/tel:+(046)-320-474-458"><a>+ (046) 320 474 458</a></Link></p>
-                                           <p><Link href="/tel:+(123)-213-147-897"><a>+ (123) 213 147 897</a></Link></p>
+                                           <p><Link href="/tel:+(046)-320-474-458"><a>+ (880) 16 74 05 29 25</a></Link></p>
                                         </li>
                                      </ul>
                                   </div>
