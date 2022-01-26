@@ -18,7 +18,7 @@ Reporting Experience.</h3>
                         <p className="wow fadeInUp" data-wow-delay=".5s">Impression is a multi-award winning, strategic-thinking team of digital marketing quis ipsum suspendisse. </p>
 
                         <div className="hero__btn d-sm-flex align-items-center">
-                           <Link href="/portfolio"><a className="w-btn w-btn-6 w-btn-white w-btn-white-4 mr-30 wow fadeInUp" data-wow-delay=".7s">View our work</a></Link>
+                           <Link href="https://themeforest.net/user/trendycoder/portfolio"><a className="w-btn w-btn-6 w-btn-white w-btn-white-4 mr-30 wow fadeInUp" data-wow-delay=".7s">View our work</a></Link>
                            <Link href="https://www.youtube.com/watch?v=yJg-Y5byMMw"><a data-fancybox="" className="play-btn d-flex align-items-center wow fadeInUp" data-wow-delay=".9s"> <span> <i className="arrow_triangle-right "></i></span> Watch video</a></Link>
                         </div>
                      </div>

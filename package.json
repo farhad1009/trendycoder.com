@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "NODE_ENV=production node server.js",
     "lint": "next lint",
     "sass": "node-sass --watch public/scss/main.scss public/css/style.css --source-map public/css/style.css.map"
   },
